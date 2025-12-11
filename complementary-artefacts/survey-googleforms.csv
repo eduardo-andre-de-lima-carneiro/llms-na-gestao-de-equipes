@@ -1,0 +1,45 @@
+Question Title,Question Type,Options,Required
+Seu papel principal na equipe,Multiple choice,"Desenvolvedor(a); QA; Scrum Master; Product Owner; Outro",TRUE
+Tempo de experiência profissional em desenvolvimento de software,Short answer,,TRUE
+Frequência com que sua equipe utiliza métodos ágeis,Multiple choice,"Nunca; Raramente; Às vezes; Frequentemente; Sempre",TRUE
+Familiaridade geral com LLMs,Multiple choice,"1 — Muito baixa; 2 — Baixa; 3 — Média; 4 — Alta; 5 — Muito alta",TRUE
+Nível de utilização de LLMs no trabalho atual,Multiple choice,"1 — Nenhuma; 2 — Baixa; 3 — Moderada; 4 — Alta; 5 — Muito alta",TRUE
+
+LLMs ajudam minha equipe a esclarecer requisitos antes do desenvolvimento,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs facilitam a redução de ambiguidades em histórias de usuário,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs às vezes geram textos que parecem claros, mas levam a interpretações inconsistentes,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs contribuem para documentar decisões tomadas durante o sprint,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs melhoram a consistência entre registros escritos e discussão oral,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+O uso de LLMs favorece o alinhamento entre desenvolvimento, QA e produto,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A dependência excessiva de LLMs prejudica o alinhamento entre áreas,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+
+LLMs ajudam minha equipe a estimar melhor o esforço de tarefas,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+As estimativas apoiadas por LLMs são frequentemente imprecisas,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs contribuem para padronizar critérios de estimativa,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs ajudam a identificar riscos antes do início do sprint,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs favorecem o mapeamento de dependências que podem gerar atrasos,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+O uso de LLMs torna o fluxo de trabalho mais estável ao longo do sprint,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A equipe passa tempo excessivo validando respostas do LLM, o que reduz previsibilidade,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+
+Confio que o LLM fornece respostas tecnicamente corretas,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A equipe evita usar LLMs por receio de imprecisões,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs contribuem para aumentar a produtividade pessoal,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs ajudam a reduzir retrabalho na equipe,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+Restrições organizacionais dificultam o uso de LLMs,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+Preocupações com privacidade impedem o uso pleno de LLMs,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+Falta de conhecimento sobre como usar LLMs reduz seu impacto,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+
+Minha equipe segue práticas ágeis de forma consistente,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+Práticas ágeis são aplicadas de maneira superficial,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A equipe utiliza LLMs para apoiar atividades do Scrum ou Kanban,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+As cerimônias ágeis ocorrem com regularidade,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs ajudam a preparar ou registrar eventos ágeis,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A equipe utiliza métricas como throughput, lead time ou burndown,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+LLMs contribuem para melhorar a compreensão das métricas,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+Minha equipe adapta seu processo com base em aprendizados anteriores,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+A equipe demonstra resistência a mudanças sugeridas a partir de análises de LLMs,Multiple choice,"1 — Discordo totalmente; 2 — Discordo; 3 — Neutro; 4 — Concordo; 5 — Concordo totalmente",TRUE
+
+Como os LLMs têm ajudado sua equipe?,Paragraph,,FALSE
+Quais práticas funcionam melhor quando combinadas com LLMs?,Paragraph,,FALSE
+Quais limitações você percebe no uso de LLMs?,Paragraph,,FALSE
+Que fatores de maturidade ágil influenciam o impacto dos LLMs?,Paragraph,,FALSE
