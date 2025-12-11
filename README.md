@@ -1,2 +1,5 @@
-# llms-na-gestao-de-equipes
-Repositório criado para armazenar as versões do artigo proposto de investigação empírica sobre o comportamento do uso das LLM's na comunicação e previsibilidade, em equipes.
+# LLMS NA GESTÃO DE EQUIPES: UMA INVESTIGAÇÃO EMPÍRICA SOBRE COMUNICAÇÃO E PREVISIBILIDADE
+Autor: Eduardo André de Lima Carneiro(eandre.carneiro@gmail.com) \
+Data: 11/12/2025
+
+Este artigo investiga como os modelos de linguagem (LLMs) podem apoiar a comunicação e a previsibilidade em equipes. Apresenta-se o delineamento de um survey exploratório destinado a mapear dores, práticas e percepções de profissionais sobre o uso de IA em atividades colaborativas e rituais do time. A motivação decorre de lacunas na literatura referentes ao impacto dos LLMs em processos coletivos, especialmente aqueles que dependem de clareza de requisitos, registro consistente de decisões e estabilidade do fluxo de trabalho. O artigo também descreve um protocolo experimental complementar, planejado para etapas futuras da pesquisa. Espera-se que os resultados contribuam para orientar organizações na adoção responsável de LLMs e para fortalecer a base empírica sobre colaboração humano–IA em Engenharia de Software.
