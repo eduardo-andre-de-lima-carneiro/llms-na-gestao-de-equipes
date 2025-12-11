@@ -1,5 +1,13 @@
 # LLMS NA GESTÃO DE EQUIPES: UMA INVESTIGAÇÃO EMPÍRICA SOBRE COMUNICAÇÃO E PREVISIBILIDADE
-Autor: Eduardo André de Lima Carneiro(eandre.carneiro@gmail.com) \
+Author: Eduardo André de Lima Carneiro(eandre.carneiro@gmail.com) \
 Data: 11/12/2025
 
+## Abstract (french and portuguese follows)
+This article investigates how Language Models (LLMs) can support communication and predictability in teams. It presents the design of an exploratory survey aimed at mapping the pain points, practices, and perceptions of professionals regarding the use of AI in collaborative activities and team rituals. The motivation stems from gaps in the literature concerning the impact of LLMs on collective processes, especially those that depend on clarity of requirements, consistent recording of decisions, and workflow stability. The article also describes a complementary experimental protocol, planned for future stages of the research. It is expected that the results will contribute to guiding organizations in the responsible adoption of LLMs and to strengthening the empirical basis for human-AI collaboration in Software Engineering.
+
+(Français) \
+Cet article examine comment les modèles de langage (ML) peuvent favoriser la communication et la prévisibilité au sein des équipes. Il présente la conception d'une enquête exploratoire visant à recenser les difficultés, les pratiques et les perceptions des professionnels concernant l'utilisation de l'IA dans les activités collaboratives et les rituels d'équipe. Cette démarche est motivée par le manque de données dans la littérature concernant l'impact des ML sur les processus collectifs, notamment ceux qui reposent sur la clarté des exigences, la consignation cohérente des décisions et la stabilité des flux de travail. L'article décrit également un protocole expérimental complémentaire, prévu pour les phases ultérieures de la recherche. Les résultats devraient contribuer à guider les organisations dans l'adoption responsable des ML et à renforcer les bases empiriques de la collaboration homme-IA en génie logiciel.
+
+(Português) \
 Este artigo investiga como os modelos de linguagem (LLMs) podem apoiar a comunicação e a previsibilidade em equipes. Apresenta-se o delineamento de um survey exploratório destinado a mapear dores, práticas e percepções de profissionais sobre o uso de IA em atividades colaborativas e rituais do time. A motivação decorre de lacunas na literatura referentes ao impacto dos LLMs em processos coletivos, especialmente aqueles que dependem de clareza de requisitos, registro consistente de decisões e estabilidade do fluxo de trabalho. O artigo também descreve um protocolo experimental complementar, planejado para etapas futuras da pesquisa. Espera-se que os resultados contribuam para orientar organizações na adoção responsável de LLMs e para fortalecer a base empírica sobre colaboração humano–IA em Engenharia de Software.
+
